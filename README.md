@@ -4,13 +4,17 @@ BÀI TẬP THỰC HÀNH 1 MÔN HỌC MÁY THÔNG KÊ
 SINH VIÊN: PHAN TUẤN ANH MSSV:24520126
 
 CÂU 1:
+
 FILE: newton-raph.py
+
 CHẠY TRÊN HÀM SỐ: 
 f(x,y)=(x-1)^4+(y+2)^4+(x-1)^2+2(y+2)^2+(x-1)(y+2)
 
 
 CÂU 2:
+
 FILE: xe-may-tphcm-2026-10-03T02-06-10.290Z.csv
+
 DATA ĐƯỢC CRAWL VÀO NGÀY 3/10/2026
 TRÊN WEBSITE: https://xe.chotot.com/mua-ban-xe-may-tp-ho-chi-minh
 
